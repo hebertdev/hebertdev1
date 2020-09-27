@@ -3,6 +3,7 @@
 <a href="https://twitter.com/hebertdev1">
   <img align="left" alt="hebert villafuerte | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/hebertdev/">
   <img align="left" alt="hebertdev1 LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,22 +12,18 @@
   <img align="left" alt="Hebertdev1 Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
+<a href="https://www.youtube.com/channel/UCvVxuO28XPe-fC6khHyAA_Q">
+  <img align="left" alt="Hebertdev1 Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hebertdev1.hebertdev1)
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [hebert villafuerte](https://hebertdev.tk/), a Full Stack Developer 🚀 from Peru, I have extensive experience in the design and building of web applications.
 
-  <img align="right" alt="GIF" src="https://imgcom.masterd.es/1/blog/2019/05/39560.jpg" width="500" height="320" />
+<img alt="GIF" src="https://imgcom.masterd.es/1/blog/2019/05/39560.jpg" height="320" />
   
-**Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
 
