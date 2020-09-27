@@ -27,7 +27,7 @@
 
 Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://www.infobrandsen.com.ar/wp-content/uploads/2020/04/Programador-freelance-Workana.jpg" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://imgcom.masterd.es/1/blog/2019/05/39560.jpg" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
