@@ -21,10 +21,17 @@
 <br />
 
 Hi, I'm [hebert villafuerte](https://hebertdev.tk/), a Full Stack Developer 🚀 from Peru, I have extensive experience in the design and building of web applications.
+<br />
+<br />
 
-<img  src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif" />
+# Aprende a crear esta aplicación. "clon de instagram - con React "
+<img  src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/img/clonstagramsignupmin.png" />
+
+### REPO: https://github.com/hebertdev1/clonstagram-taller-de-react
+### DEMO: https://clonstagram.tk/
   
-
+<br />
+<br />
 
 ### Donde me puedes encontrar
 
